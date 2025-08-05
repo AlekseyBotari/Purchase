@@ -1,5 +1,6 @@
 # Purchase
 Purchase: Cart, Form, Overview" page, "Checkout Complete" page. WebdriverIO, JavaScript
+
 Step 1: Click on the "Add to cart" button near any product   Expected result: Number near the cart at the top right increase by 1, product is added to cart
 
 Step 2: Click on the "Cart" button at the top right corner   Expected result: Cart page is displayed, product are the same as was added at step 1
