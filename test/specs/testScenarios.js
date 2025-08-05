@@ -6,7 +6,7 @@ let regdata;
 
 before(() => {
     // Load fixture before all tests
-    const rawData = fs.readFileSync(path.join(__dirname, '../fixtures/TestData1.json'));
+    const rawData = fs.readFileSync(path.join(__dirname, '../fixtures/TestData.json'));
     regdata = JSON.parse(rawData);
 });
 
