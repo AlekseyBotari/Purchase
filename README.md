@@ -6,6 +6,7 @@ Step 1: Click on the "Add to cart" button near any product   Expected result: Nu
 Step 2: Click on the "Cart" button at the top right corner   Expected result: Cart page is displayed, product are the same as was added at step 1
 
 Step 3: Click on the "Checkout" button   Expected result: Checkout form are displayed
+
 Step 4: Fill the "First Name" field with valid data   Data: Any random First Name   Expected result: Data is entered to the field
 
 Step 5: Fill the "Second Name" field with valid data   Data: Any random Second Name   Expected result: Data is entered to the field
