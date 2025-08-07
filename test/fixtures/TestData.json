@@ -1,5 +1,9 @@
 {
     "URL": "https://www.saucedemo.com",
+<<<<<<< HEAD
 	"username": "standard_user",
+=======
+    "username": "locked_out_user",
+>>>>>>> c3157576b7573def5c5e28809160c92aed5163f0
     "password": "secret_sauce"
 }
