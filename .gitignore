@@ -1,0 +1,36 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Folder with WebdriverIO reports and temporary files
+./reports/
+./allure-results/
+./.tmp/
+
+# Browser cache
+.chromedriver/
+
+# Development environment configuration files
+.vscode/
+.idea/
+
+# Local settings files
+.env
+.env.local
+.env.*.local
+
+# Build artifacts
+dist/
+build/
+
+# Screenshots folder
+/screenshots/
+
+# WebdriverIO session storage
+.wdio/
