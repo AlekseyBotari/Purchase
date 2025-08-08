@@ -1,13 +1,10 @@
 {
     "URL": "https://www.saucedemo.com",
-<<<<<<< HEAD
-<<<<<<< HEAD
-	"username": "standard_user",
-=======
     "username": "locked_out_user",
->>>>>>> c3157576b7573def5c5e28809160c92aed5163f0
-=======
     "username": "standard_user",
->>>>>>> ac76f8bc05e11f0f241f09b13f27123388890a39
-    "password": "secret_sauce"
+    "password": "secret_sauce",
+	"invalidUsername": "seauce",
+	"invalidPassword": "secreauce",
+	"burgerMenuItems": 4,
+	"productsAmount": 2
 }
