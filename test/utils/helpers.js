@@ -37,7 +37,6 @@ async function clickAndSwitchToNewTab(browser, originalWindow) {
     await browser.switchToWindow(newTab);
 
     return newTab;
-
 }
 
 // Randomizer for first names
